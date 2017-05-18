@@ -1,0 +1,13 @@
+D:\Comport_Tool\Com_tool - Copy\Com_tool\bin\Release\Com_tool.exe.config
+D:\Comport_Tool\Com_tool - Copy\Com_tool\bin\Release\Com_tool.exe
+D:\Comport_Tool\Com_tool - Copy\Com_tool\bin\Release\Com_tool.pdb
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Release\Com_tool.csprojResolveAssemblyReference.cache
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Release\Com_tool.mainForm.resources
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Release\Com_tool.Properties.Resources.resources
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Release\Com_tool.csproj.GenerateResource.Cache
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Release\Com_tool.exe
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Release\Com_tool.pdb
+D:\Comport_Tool\Com_tool - Copy\Com_tool\bin\Release\Com_tool.exe.manifest
+D:\Comport_Tool\Com_tool - Copy\Com_tool\bin\Release\Com_tool.application
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Release\Com_tool.exe.manifest
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Release\Com_tool.application

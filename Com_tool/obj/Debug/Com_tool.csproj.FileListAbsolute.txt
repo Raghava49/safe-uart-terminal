@@ -1,0 +1,17 @@
+D:\Comport_Tool\Com_tool\Com_tool\bin\Debug\Com_tool.exe
+D:\Comport_Tool\Com_tool\Com_tool\bin\Debug\Com_tool.pdb
+D:\Comport_Tool\Com_tool\Com_tool\obj\Debug\Com_tool.csprojResolveAssemblyReference.cache
+D:\Comport_Tool\Com_tool\Com_tool\obj\Debug\Com_tool.Properties.Resources.resources
+D:\Comport_Tool\Com_tool\Com_tool\obj\Debug\Com_tool.csproj.GenerateResource.Cache
+D:\Comport_Tool\Com_tool\Com_tool\obj\Debug\Com_tool.exe
+D:\Comport_Tool\Com_tool\Com_tool\obj\Debug\Com_tool.pdb
+D:\Comport_Tool\Com_tool\Com_tool\obj\Debug\Com_tool.mainForm.resources
+D:\Comport_Tool\Com_tool - Copy\Com_tool\bin\Debug\Com_tool.exe.config
+D:\Comport_Tool\Com_tool - Copy\Com_tool\bin\Debug\Com_tool.exe
+D:\Comport_Tool\Com_tool - Copy\Com_tool\bin\Debug\Com_tool.pdb
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Debug\Com_tool.mainForm.resources
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Debug\Com_tool.Properties.Resources.resources
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Debug\Com_tool.csproj.GenerateResource.Cache
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Debug\Com_tool.exe
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Debug\Com_tool.pdb
+D:\Comport_Tool\Com_tool - Copy\Com_tool\obj\Debug\Com_tool.csprojResolveAssemblyReference.cache
